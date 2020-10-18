@@ -1,0 +1,9 @@
+{
+      "expose": true,
+      "statusCode": 400,
+      "status": 400,
+      "body": "{\r\n    \"name\": \"kokos\",\r\n    // \"password\": \"dbffvdffdgfddfd\",\r\n   \"email\": \"mikola0672662963@gmail.com\"\r\n}",
+      "type": "entity.parse.failed",
+      "level": "error",
+      "label": "APP"
+}
